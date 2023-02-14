@@ -1,12 +1,2 @@
 https://aclanthology.org/I17-1099
 http://dx.doi.org/10.21437/Interspeech.2019-3079
-https://www.semanticscholar.org/paper/3108f96f80d129036f53684344f4058257b37c4b
-https://www.semanticscholar.org/paper/37607828cb9b8ae5011bbcc8ecc2e159f719347c
-https://www.semanticscholar.org/paper/ddbbf78334ef65d412520236e5d9067c82ef8984
-https://www.semanticscholar.org/paper/9ea51567b3b19c9e71f4e62a2e77b1bdb4c3693c
-https://www.semanticscholar.org/paper/a33a06ddc762fb855b6954c08d5aca603080b011
-https://www.semanticscholar.org/paper/6c7046195f64cccac1ed3275d88d77655534b5a4
-https://www.semanticscholar.org/paper/f7e9d6d6ae95d78506f3eb0963ec97c5cc873055
-https://www.semanticscholar.org/paper/a279efc0938433e5e81a085f1a614b5817d3435c
-https://www.semanticscholar.org/paper/a8debd8f58ee690005d996d223c37239e25273ec
-https://www.semanticscholar.org/paper/6ff68b34a5f78bdd14437fe5a79aebbc42c26467
